@@ -1,0 +1,1 @@
+{"id":"3c5ceeea-1823-4974-a7f6-b5413ad3fd35","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"Social_In_Out.Social","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}

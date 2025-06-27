@@ -1,0 +1,1 @@
+{"id":"81aa71f5-0dbb-42dd-a5c2-c428021057d6","name":"Ran_Inscribe-taskform.frm","model":{"taskName":"Ran_Inscribe","processId":"Social_In_Out.Social","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
